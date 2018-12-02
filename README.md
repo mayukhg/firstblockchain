@@ -3,6 +3,7 @@ This is a sample implementation of blockchain concept using Javascript.
 It contains 2 files
 
 blockchain.js - Module to create a blockchain. It contains the following methods
+
 (a) initBlockchain - Create the first block - Genesis block
 (b) hashBlock - Hash a block
 (c) isHashValid - Check validity of last block on the basis of difficulty leves (count of leading zeros - in our case '0000')
